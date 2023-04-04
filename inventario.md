@@ -8,5 +8,7 @@
 - [processori](./componenti/processori.md)
 
 # periferiche
+# mouse
+- [mouse](./periferiche/mouse.md)
 
 Elettronica Padovana
